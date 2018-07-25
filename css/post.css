@@ -41,6 +41,7 @@ body {
     touch-action: manipulation;
     overflow-y: scroll;
     font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.4;
 }
 
 #chatframe {

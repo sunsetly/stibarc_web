@@ -3,7 +3,6 @@
     word-wrap: break-word;
     padding: 15px;
     border-radius: 15px;
-    font-family: Georgia, Times;
 }
 
 #content {
@@ -36,11 +35,6 @@
     background-color: white;
     padding: 6px;
     border-radius: 5px;
-}
-
-body {
-    font-family: Helvetica, Arial, sans-serif;
-    line-height: 1.4;
 }
 
 #chatframe {

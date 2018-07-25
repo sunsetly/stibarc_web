@@ -3,6 +3,8 @@ body {
 	word-wrap: break-word;
 	touch-action: manipulation;
 	overflow-y: auto;
+	font-family: Georgia, serif;
+    line-height: 1.41;
 }
 
 a:link {

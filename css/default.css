@@ -11,6 +11,7 @@
     word-wrap: break-word;
     padding: 15px;
     border-radius: 15px;
+    font-family: Georgia, serif;
 }
 
 #chatframe {
@@ -65,4 +66,5 @@ footer {
     word-wrap: break-word;
     padding: 15px;
     border-radius: 15px;
+    font-family: Georgia, serif;
 }

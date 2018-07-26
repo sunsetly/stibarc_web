@@ -43,12 +43,25 @@
     border-radius: 5px;
     width: 100%;
     text-decoration: none;
+    font-weight: bold;
 }
 
 .buttons {
     display:inline-block;
     float: right;
+    font-weight: bold;
 }
+
+.darkbutton {
+    display:none;
+    text-align:center;
+    background-color: black;
+    color: white;
+    padding: 6px;
+    border-radius: 5px;
+    width: 100%;
+    text-decoration: none;
+    font-weight: bold;
 
 #logo {
     display:inline-block;

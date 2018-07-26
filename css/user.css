@@ -1,6 +1,8 @@
 #userstuffs {
 	background-color: #FFFFFF;
 	word-wrap: break-word;
+	padding: 15px; 
+	border-radius: 15px:
 }
 
 #chatframe {
@@ -28,4 +30,6 @@
 #bio {
 	background-color: #F0F0F0;
 	word-wrap: break-word;
+	padding: 10px; 
+	border-radius: 10px:
 }

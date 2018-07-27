@@ -41,7 +41,7 @@ function getStuff(id) {
 	var email = tmp[1].split(":")[1];
 	//var posts = tmp[2].split(":")[1];
 	var birthday = tmp[3].split(":")[1];
-	document.getElementById("username").innerHTML = "Username: ".concat(id).concat('<span id="verified" title="Verified user" style="display:none">✔️</span>');
+	document.getElementById("username").innerHTML = id.concat('<span id="verified" title="Verified user" style="display:none">✔️</span>');
 	document.getElementById("rank").innerHTML = "Rank: ".concat(rank);
 	document.getElementById("name").innerHTML = "Real name: ".concat(name);
 	if (email != "Not shown" && email != "Not set") {
